@@ -18,3 +18,5 @@ workflows:
   Some Random Workflow:
     jobs:
       - newman-collection-run
+      
+      
